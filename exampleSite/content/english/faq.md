@@ -1,21 +1,12 @@
 ---
-title: "Frequently Asked Questions"
-description: "this is meta description"
-subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
-lastmod: 2021-04-01T00:00:00
-bg_image: "images/feature-bg.jpg"
-layout: "faq"
-draft: false
-menu:
-  main:
-    parent: "More"
-    name: "FAQ"
-    weight: 3
-  footer:
-    name: "FAQ"
-    weight: 5
----
+title: Frequently Asked Questions
+description: this is meta description
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae.
+lastmod: 2021-04-01T00:00:00.000+00:00
+bg_image: images/feature-bg.jpg
+layout: faq
 
+---
 ### Welcome to Airspace!
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
@@ -29,8 +20,7 @@ obcaecati maiores voluptates.
 
 #### 1.Overview
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
-neque excepturi aliquid. Eligendi, mollitia.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet neque excepturi auid. Eligendi, mollitia.
 
 #### 2. Data We Collect
 
