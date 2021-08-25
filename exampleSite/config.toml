@@ -1,4 +1,4 @@
-baseURL = "http://deerofsiu.netlify.com"
+baseURL = "http://deerofsiu.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 googleAnalytics = ""
