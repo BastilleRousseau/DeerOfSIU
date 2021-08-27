@@ -4,8 +4,7 @@ banner:
   bg_image: images/slider-bg.jpg
   bg_overlay: true
   title: Deer of <br/> SIU
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  content: 'We love Deer '
   button:
     enable: true
     label: Discover Our Project
@@ -94,6 +93,5 @@ funfacts:
     content: This Company created an e-commerce site with the tools to make our business
       a success, with innovative ideas we feel that our site has unique elements that
       make us stand out from the crowd.
-draft: true
 
 ---
